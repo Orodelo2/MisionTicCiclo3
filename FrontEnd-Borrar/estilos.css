@@ -1,0 +1,12 @@
+p {
+    background-color: rgb(240, 240, 245);
+}
+
+body{
+    background-color: cadetblue;
+}
+
+*{
+    margin: 20px;
+    padding: 20px;
+}

@@ -1,0 +1,12 @@
+*{
+    margin: 20px;
+    padding: 20px;
+}
+
+.titulo{
+    background-color: blueviolet;
+}
+
+#identificador{
+    background-color: brown;
+}
